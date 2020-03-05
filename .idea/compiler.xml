@@ -6,8 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Segregation" />
+        <module name="Liskov" />
         <module name="Singleresponsibility" />
+        <module name="inversion" />
+        <module name="Segregation" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11" />
