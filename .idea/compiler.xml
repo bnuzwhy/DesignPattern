@@ -12,6 +12,7 @@
         <module name="Segregation" />
         <module name="Demeter" />
         <module name="inversion" />
+        <module name="DesignPattern23" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11" />

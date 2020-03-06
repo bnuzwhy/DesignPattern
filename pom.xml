@@ -15,6 +15,7 @@
         <module>Liskov</module>
         <module>Ocp</module>
         <module>Demeter</module>
+        <module>DesignPattern23</module>
     </modules>
 
     <build>
