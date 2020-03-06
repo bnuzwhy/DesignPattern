@@ -13,6 +13,8 @@
         <module>Singleresponsibility</module>
         <module>inversion</module>
         <module>Liskov</module>
+        <module>Ocp</module>
+        <module>Demeter</module>
     </modules>
 
     <build>
